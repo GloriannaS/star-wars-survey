@@ -4,6 +4,6 @@ As the Star Wars franchise continued to grow, debates began, and continue to ari
 
 In this short project, we will work with the `star_wars.csv` data set. It will be a short cleaning project, ending with a brief initial analysis. Our goal is to demonstrate data cleaning techniques with data acquired through crowd questioning, which is often quite dirtied and disorganized.
 
-image
+[![Star Wars Survey Graph](star_wars_survey_graphs.png)](https://colab.research.google.com/drive/1ueym_1ld5MbbNT_NpMXcl6axwE0V9TCR?usp=sharing)
 
-View this project live on Google Colab link.
+View this project live on Google Colab [here](https://colab.research.google.com/drive/1ueym_1ld5MbbNT_NpMXcl6axwE0V9TCR?usp=sharing).
